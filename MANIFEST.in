@@ -1,0 +1,3 @@
+recursive-include pretalx_socialauth/static *
+recursive-include pretalx_socialauth/templates *
+recursive-include pretalx_socialauth/locale *
