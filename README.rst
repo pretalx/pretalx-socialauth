@@ -1,7 +1,7 @@
 OAuth2 for pretalx
 ==========================
 
-This is a plugin for `pretalx`_. 
+This is a plugin for `pretalx`_, providing OAuth2 services. Development is currently in progress.
 
 Development setup
 -----------------
